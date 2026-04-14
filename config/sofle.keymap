@@ -12,16 +12,17 @@
 
 / {
     behaviors {
-        LSHFT: compatible = "zmk,behavior-tap-dance";
-
-        label = "TAP_DANCE_CAPS";
-        #binding-cells = <0>;
-        bindings = <&caps_word>;
+        td_caps: tap_dance_caps {
+            compatible = "zmk,behavior-tap-dance";
+            label = "TD_CAPS";
+            #binding-cells = <0>;
+            tapping-term-ms = <200>;
+            bindings = <&kp LSHFT>, <&caps_word>;
+        };
     };
-};
 
-keymap {
-    compatible = "zmk,keymap";
+    keymap {
+        compatible = "zmk,keymap";
 
     default_layer {
         // ------------------------------------------------------------------------------------------------------------
@@ -35,7 +36,7 @@ keymap {
 &kp ESC    &kp N1  &kp N2    &kp N3    &kp N4     &kp N5                           &kp N6  &kp N7     &kp N8     &kp N9    &kp N0    &kp EQUAL
 &kp TAB    &kp Q   &kp W     &kp E     &kp R      &kp T                            &kp Y   &kp U      &kp I      &kp O     &kp P     &kp BSPC
 &kp APOS   &kp A   &kp S     &kp D     &kp F      &kp G                            &kp H   &kp J      &kp K      &kp L     &kp SEMI  &kp BSLH
-&kp LSHFT  &kp Z   &kp X     &kp C     &kp V      &kp B   &kp C_MUTE    &none      &kp N   &kp M      &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
+&td_caps   &kp Z   &kp X     &kp C     &kp V      &kp B   &kp C_MUTE    &none      &kp N   &kp M      &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
                    &kp LGUI  &kp LALT  &kp LCTRL  &tog 1  &kp RET       &kp SPACE  &tog 2  &kp RCTRL  &kp RALT   &kp RGUI
         >;
 
@@ -80,6 +81,5 @@ keymap {
 
         sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
     };
-};
-
+    };
 };
