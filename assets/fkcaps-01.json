@@ -1,0 +1,5263 @@
+{
+  "optionId": "mbk-abs-pu",
+  "keycapProfileId": "mbk",
+  "color": "black",
+  "layoutId": "49",
+  "vlayoutId": null,
+  "fontId": "74",
+  "fontPreset": "center",
+  "sublegendType": null,
+  "sublegendFontId": null,
+  "iconMods": "4",
+  "maxStep": 4,
+  "customized": {
+    "keys": {
+      "VdsUMzB": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "< ,",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 62988,
+              "iconKitId": "10",
+              "size": 5,
+              "offsetX": -4,
+              "offsetY": -4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 62606,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "Blpltw3": {
+        "removeLayers": [
+          "iconMod"
+        ],
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59683,
+              "iconKitId": "4",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "oe3e1Ll": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "F",
+              "fontId": "63",
+              "lineHeight": 1.2,
+              "size": 6.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": "alphas",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "MOYCWHD": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59674,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "PeGNbwz": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": {
+              "size": 4,
+              "lineHeight": 1.3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 59713,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "ZYOBrH3": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59713,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "TkgIoih": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "B",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "gggVONG": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "C",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "+",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": -6,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61637,
+              "iconKitId": "8",
+              "size": 3,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "XCytKBF": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "X",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "-",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": -6,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60498,
+              "iconKitId": "7",
+              "size": 3,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "oeuxE8K": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "Z",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "=",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": -6,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 4,
+              "lineHeight": 1.3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 60939,
+              "iconKitId": "7",
+              "size": 3,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "WqXtXTQ": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "del",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2.4,
+              "offsetX": 0,
+              "offsetY": -1,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "top",
+              "offsetX": 3.3,
+              "offsetY": 4.4,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59734,
+              "iconKitId": "15",
+              "size": 7,
+              "offsetX": 0,
+              "offsetY": -2
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "y5hpg0U": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "| \\",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "kqEibKB": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "M",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "]",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -6,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "axF2KAO": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "N",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "[",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -6,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60343,
+              "iconKitId": "2",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "TAHTIki": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "V",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61674,
+              "iconKitId": "8",
+              "size": 3,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "VRP7JTR": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "% 5",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F5",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "vector",
+            "text": null,
+            "vector": {
+              "g": "<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M4.25 3l1.166-.624 8 5.333v1.248l-8 5.334-1.166-.624V3zm1.5 1.401v7.864l5.898-3.932L5.75 4.401z\"/>",
+              "width": null,
+              "height": null,
+              "scale": 20,
+              "extractPaths": true,
+              "offsetX": 5,
+              "offsetY": 5,
+              "alignX": "center",
+              "alignY": "center"
+            },
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "ZYdrsoK": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "J",
+              "fontId": "63",
+              "lineHeight": 1.2,
+              "size": 6.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": "alphas",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 3.5,
+              "lineHeight": 0.92,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 61997,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "9Ae6xou": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "I",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 3.5,
+              "lineHeight": 0.92,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 62005,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -0.3,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 62992,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": -5,
+              "offsetY": -5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "FNd30jH": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "K",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 3.5,
+              "lineHeight": 0.92,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 61993,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -0.3,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 62986,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": -5,
+              "offsetY": -5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "q8qhw1I": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "L",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 3.5,
+              "lineHeight": 0.92,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 62001,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -0.3,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "2RPyP5l": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "W",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F9",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": -5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "vector",
+            "text": null,
+            "vector": {
+              "g": "\n    <path d=\"M 7 2 C 6.448 2 6 2.448 6 3 L 6 6 L 3 6 C 2.448 6 2 6.448 2 7 C 2 7.552 2.448 8 3 8 L 6 8 L 6 15 C 6 15.552 6.448 16 7 16 C 7.552 16 8 15.552 8 15 L 8 8 L 15 8 C 15.552 8 16 7.552 16 7 C 16 6.448 15.552 6 15 6 L 8 6 L 8 3 C 8 2.448 7.552 2 7 2 z M 57 2 C 56.448 2 56 2.448 56 3 L 56 6 L 49 6 C 48.448 6 48 6.448 48 7 C 48 7.552 48.448 8 49 8 L 56 8 L 56 15 C 56 15.552 56.448 16 57 16 C 57.552 16 58 15.552 58 15 L 58 8 L 61 8 C 61.552 8 62 7.552 62 7 C 62 6.448 61.552 6 61 6 L 58 6 L 58 3 C 58 2.448 57.552 2 57 2 z M 19 6 C 18.448 6 18 6.448 18 7 C 18 7.552 18.448 8 19 8 L 21 8 C 21.552 8 22 7.552 22 7 C 22 6.448 21.552 6 21 6 L 19 6 z M 25 6 C 24.448 6 24 6.448 24 7 C 24 7.552 24.448 8 25 8 L 27 8 C 27.552 8 28 7.552 28 7 C 28 6.448 27.552 6 27 6 L 25 6 z M 31 6 C 30.448 6 30 6.448 30 7 C 30 7.552 30.448 8 31 8 L 33 8 C 33.552 8 34 7.552 34 7 C 34 6.448 33.552 6 33 6 L 31 6 z M 37 6 C 36.448 6 36 6.448 36 7 C 36 7.552 36.448 8 37 8 L 39 8 C 39.552 8 40 7.552 40 7 C 40 6.448 39.552 6 39 6 L 37 6 z M 43 6 C 42.448 6 42 6.448 42 7 C 42 7.552 42.448 8 43 8 L 45 8 C 45.552 8 46 7.552 46 7 C 46 6.448 45.552 6 45 6 L 43 6 z M 7 18 C 6.448 18 6 18.448 6 19 L 6 21 C 6 21.552 6.448 22 7 22 C 7.552 22 8 21.552 8 21 L 8 19 C 8 18.448 7.552 18 7 18 z M 57 18 C 56.448 18 56 18.448 56 19 L 56 21 C 56 21.552 56.448 22 57 22 C 57.552 22 58 21.552 58 21 L 58 19 C 58 18.448 57.552 18 57 18 z M 7 24 C 6.448 24 6 24.448 6 25 L 6 27 C 6 27.552 6.448 28 7 28 C 7.552 28 8 27.552 8 27 L 8 25 C 8 24.448 7.552 24 7 24 z M 57 24 C 56.448 24 56 24.448 56 25 L 56 27 C 56 27.552 56.448 28 57 28 C 57.552 28 58 27.552 58 27 L 58 25 C 58 24.448 57.552 24 57 24 z M 42 26 C 41.061 26 40.163609 26.447219 39.599609 27.199219 L 37.5 30 L 27 30 C 25.346 30 24 31.346 24 33 L 24 55 C 24 56.654 25.346 58 27 58 L 61 58 C 62.654 58 64 56.654 64 55 L 64 33 C 64 31.346 62.654 30 61 30 L 56.5 30 L 54.400391 27.199219 C 53.837391 26.448219 52.939 26 52 26 L 42 26 z M 42 28 L 52 28 C 52.313 28 52.612781 28.149391 52.800781 28.400391 L 55.199219 31.599609 C 55.387219 31.851609 55.685 32 56 32 L 61 32 C 61.551 32 62 32.449 62 33 L 62 55 C 62 55.551 61.551 56 61 56 L 27 56 C 26.449 56 26 55.551 26 55 L 26 33 C 26 32.449 26.449 32 27 32 L 38 32 C 38.315 32 38.611781 31.851609 38.800781 31.599609 L 41.199219 28.400391 C 41.387219 28.149391 41.687 28 42 28 z M 7 30 C 6.448 30 6 30.448 6 31 L 6 33 C 6 33.552 6.448 34 7 34 C 7.552 34 8 33.552 8 33 L 8 31 C 8 30.448 7.552 30 7 30 z M 29 33 C 28.448 33 28 33.448 28 34 C 28 34.552 28.448 35 29 35 L 31 35 C 31.552 35 32 34.552 32 34 C 32 33.448 31.552 33 31 33 L 29 33 z M 47 34 C 42.038 34 38 38.038 38 43 C 38 47.962 42.038 52 47 52 C 51.962 52 56 47.962 56 43 C 56 38.038 51.962 34 47 34 z M 7 36 C 6.448 36 6 36.448 6 37 L 6 39 C 6 39.552 6.448 40 7 40 C 7.552 40 8 39.552 8 39 L 8 37 C 8 36.448 7.552 36 7 36 z M 47 36 C 50.86 36 54 39.14 54 43 C 54 46.86 50.86 50 47 50 C 43.14 50 40 46.86 40 43 C 40 39.14 43.14 36 47 36 z M 29 38 C 28.448 38 28 38.448 28 39 C 28 39.552 28.448 40 29 40 L 31 40 C 31.552 40 32 39.552 32 39 C 32 38.448 31.552 38 31 38 L 29 38 z M 47 38 C 46.448 38 46 38.448 46 39 C 46 39.552 46.448 40 47 40 C 48.144 40 49.172547 40.635203 49.685547 41.658203 C 49.860547 42.008203 50.213078 42.210938 50.580078 42.210938 C 50.730078 42.210938 50.883344 42.177469 51.027344 42.105469 C 51.521344 41.858469 51.720656 41.257672 51.472656 40.763672 C 50.619656 39.059672 48.906 38 47 38 z M 7 42 C 6.448 42 6 42.448 6 43 L 6 50 L 3 50 C 2.448 50 2 50.448 2 51 C 2 51.552 2.448 52 3 52 L 6 52 L 6 55 C 6 55.552 6.448 56 7 56 C 7.552 56 8 55.552 8 55 L 8 52 L 15 52 C 15.552 52 16 51.552 16 51 C 16 50.448 15.552 50 15 50 L 8 50 L 8 43 C 8 42.448 7.552 42 7 42 z M 29 43 C 28.448 43 28 43.448 28 44 C 28 44.552 28.448 45 29 45 L 31 45 C 31.552 45 32 44.552 32 44 C 32 43.448 31.552 43 31 43 L 29 43 z M 29 48 C 28.448 48 28 48.448 28 49 C 28 49.552 28.448 50 29 50 L 31 50 C 31.552 50 32 49.552 32 49 C 32 48.448 31.552 48 31 48 L 29 48 z M 19 50 C 18.448 50 18 50.448 18 51 C 18 51.552 18.448 52 19 52 L 21 52 C 21.552 52 22 51.552 22 51 C 22 50.448 21.552 50 21 50 L 19 50 z M 29 53 C 28.448 53 28 53.448 28 54 C 28 54.552 28.448 55 29 55 L 31 55 C 31.552 55 32 54.552 32 54 C 32 53.448 31.552 53 31 53 L 29 53 z\"/>\n",
+              "width": 64,
+              "height": 64,
+              "scale": 20,
+              "extractPaths": true,
+              "offsetX": 5,
+              "offsetY": 4,
+              "alignX": "center",
+              "alignY": "center"
+            },
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "I0ehGCa": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61699,
+              "iconKitId": "8",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": -1
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "lower",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "o61Ppce": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59679,
+              "iconKitId": "4",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "ABzQGXm": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "! 1",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F1",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "ZgVtnqC": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "@ 2",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F2",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "vector",
+            "text": null,
+            "vector": {
+              "g": "\n<path d=\"M11.75 2C11.3358 2 11 2.33579 11 2.75C11 3.16421 11.3358 3.5 11.75 3.5H13.25V24.5H11.75C11.3358 24.5 11 24.8358 11 25.25C11 25.6642 11.3358 26 11.75 26H16.25C16.6642 26 17 25.6642 17 25.25C17 24.8358 16.6642 24.5 16.25 24.5H14.75V3.5H16.25C16.6642 3.5 17 3.16421 17 2.75C17 2.33579 16.6642 2 16.25 2H11.75Z\"/>\n<path d=\"M6.25 6.01958H12.25V7.51958H6.25C5.2835 7.51958 4.5 8.30308 4.5 9.26958V18.7696C4.5 19.7361 5.2835 20.5196 6.25 20.5196H12.25V22.0196H6.25C4.45507 22.0196 3 20.5645 3 18.7696V9.26958C3 7.47465 4.45507 6.01958 6.25 6.01958Z\"/>\n<path d=\"M21.75 20.5196H15.75V22.0196H21.75C23.5449 22.0196 25 20.5645 25 18.7696V9.26958C25 7.47465 23.5449 6.01958 21.75 6.01958H15.75V7.51958H21.75C22.7165 7.51958 23.5 8.30308 23.5 9.26958V18.7696C23.5 19.7361 22.7165 20.5196 21.75 20.5196Z\"/>\n",
+              "width": null,
+              "height": null,
+              "scale": 12,
+              "extractPaths": true,
+              "offsetX": 5,
+              "offsetY": 5,
+              "alignX": "center",
+              "alignY": "center"
+            },
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "bXzwIp8": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": ") }]",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "0",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "Ey0IXzD": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "+ =",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "- _",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "pAhXbYh": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59664,
+              "iconKitId": "4",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -0.3,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "G",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "OGVpXaS": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "[{ (",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "9",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "ihN6NPZ": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "F8",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "Q",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "nKdFxQV": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "preset": null,
+            "text": {
+              "size": 6.6,
+              "lineHeight": 1.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "74",
+              "label": "E"
+            },
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "mirrorX": false,
+              "mirrorY": false,
+              "rotate": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F10",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -2,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "vector",
+            "text": null,
+            "vector": {
+              "g": "<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M14.25 5.75v-4h-1.5v2.542c-1.145-1.359-2.911-2.209-4.84-2.209-3.177 0-5.92 2.307-6.16 5.398l-.02.269h1.501l.022-.226c.212-2.195 2.202-3.94 4.656-3.94 1.736 0 3.244.875 4.05 2.166h-2.83v1.5h4.163l.962-.975V5.75h-.004zM8 14a2 2 0 1 0 0-4 2 2 0 0 0 0 4z\"/>",
+              "width": null,
+              "height": null,
+              "scale": 20,
+              "extractPaths": true,
+              "offsetX": 5,
+              "offsetY": 5,
+              "alignX": "center",
+              "alignY": "center"
+            },
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "VZurz7F": {
+        "updateLayers": {
+          "label": {
+            "settings": {
+              "mirrorX": false,
+              "mirrorY": false,
+              "rotate": 0
+            }
+          }
+        },
+        "addLayers": [
+          {
+            "type": "text",
+            "preset": null,
+            "text": {
+              "size": 6.6,
+              "lineHeight": 1.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "74",
+              "label": "R"
+            },
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "mirrorX": false,
+              "mirrorY": false,
+              "rotate": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F11",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -2,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "vector",
+            "text": null,
+            "vector": {
+              "g": "<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M8 9.532h.542l3.905-3.905-1.061-1.06-2.637 2.61V1H7.251v6.177l-2.637-2.61-1.061 1.06 3.905 3.905H8zm1.956 3.481a2 2 0 1 1-4 0 2 2 0 0 1 4 0z\"/>",
+              "width": null,
+              "height": null,
+              "scale": 20,
+              "extractPaths": true,
+              "offsetX": 5,
+              "offsetY": 5,
+              "alignX": "center",
+              "alignY": "center"
+            },
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60065,
+              "iconKitId": "6",
+              "size": 2,
+              "offsetX": 6.2,
+              "offsetY": -4.5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "c8DjWA3": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "preset": null,
+            "text": {
+              "size": 6.6,
+              "lineHeight": 1.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "74",
+              "label": "T"
+            },
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "mirrorX": false,
+              "mirrorY": false,
+              "rotate": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F12",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -2,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61459,
+              "iconKitId": "7",
+              "size": 2,
+              "offsetX": 5,
+              "offsetY": -5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "b6EJhO2": {
+        "removeLayers": [],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "'    \"\n~   `",
+              "fontId": "63",
+              "lineHeight": 1.4,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": "alphasDouble",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "GMkVlGgL": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "F",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61585,
+              "iconKitId": "2",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "qQnzj7dH": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "J",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 3.5,
+              "lineHeight": 0.92,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 61997,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -0.3,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "JsCjnqET": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": {
+              "size": 4,
+              "lineHeight": 1.3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 59666,
+              "iconKitId": "14",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "super",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "2cKTKaQl": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59666,
+              "iconKitId": "14",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "super",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "40Iy2AVk": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59651,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "alt",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 5,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "Q6eZ3cK5": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59728,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "altgr",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "qxIwRz38": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60222,
+              "iconKitId": "2",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "ctrl",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 5,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "cCFR8KoJ": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60222,
+              "iconKitId": "2",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "ctrl",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 5,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "njIqBA0O": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59667,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "shift",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "WhzODqUD": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59667,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "shift",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "qIbqnviG": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59681,
+              "iconKitId": "4",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": -1
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "backspace",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 2,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "DI3TEDJ1": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            },
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59713,
+              "iconKitId": "15",
+              "size": 6,
+              "offsetX": 0,
+              "offsetY": 0
+            }
+          },
+          {
+            "type": "icon",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            },
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59713,
+              "iconKitId": "15",
+              "size": 6,
+              "offsetX": 0,
+              "offsetY": 0
+            }
+          }
+        ]
+      },
+      "QknZrbsm": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59653,
+              "iconKitId": "15",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60508,
+              "iconKitId": "2",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "NrWIINp7": {
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "\"  '",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "~ `",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "TxW3X31": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 62729,
+              "iconKitId": "2",
+              "size": 2,
+              "offsetX": -5,
+              "offsetY": -3
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 64858,
+              "iconKitId": "2",
+              "size": 3,
+              "offsetX": -6,
+              "offsetY": -5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "P",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "EbrMZh7": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61775,
+              "iconKitId": "2",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "A",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "AjWyhLH": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60377,
+              "iconKitId": "2",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61997,
+              "iconKitId": "10",
+              "size": 4,
+              "offsetX": -5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "S",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "x6FNsao": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61780,
+              "iconKitId": "2",
+              "size": 4,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "D",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "8yZ4YiL": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "Y",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59658,
+              "iconKitId": "4",
+              "size": 5,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "4cYskNK": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59657,
+              "iconKitId": "4",
+              "size": 5,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "H",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "bJVzHYD": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "U",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59660,
+              "iconKitId": "4",
+              "size": 5,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "dmmYd4n": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "O",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 6.6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59659,
+              "iconKitId": "4",
+              "size": 5,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "XhDmNtGj": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 61698,
+              "iconKitId": "8",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": -1
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "raise",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "H9Crlgl": {
+        "addLayers": [
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60014,
+              "iconKitId": "6",
+              "size": 8,
+              "offsetX": 0,
+              "offsetY": 3
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "M9PE0ib": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "F3",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "# 3",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "YTQJMwn": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "F4",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "$ 4",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "i2Xt063": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "*",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "8",
+              "fontId": "74",
+              "lineHeight": 1.3,
+              "size": 4.3,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "Y2hG5t6": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "&",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "7",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "t68mPss": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "^",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "6",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "cDKNL9G": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "> .",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "qmOEaC4": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "? /",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      "YAxv7TT": {
+        "removeLayers": [
+          "label"
+        ],
+        "addLayers": [
+          {
+            "type": "text",
+            "text": {
+              "label": ": ;",
+              "fontId": "74",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      }
+    },
+    "layout": [
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": -2.5,
+        "y": -0.5,
+        "labelId": "Q",
+        "color": "black",
+        "id": "ihN6NPZ"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": -0.5,
+        "y": -0.5,
+        "labelId": "E",
+        "color": "black",
+        "id": "nKdFxQV"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": 0.5,
+        "y": -0.5,
+        "labelId": "R",
+        "color": "black",
+        "id": "VZurz7F"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": 1.5,
+        "y": -0.5,
+        "labelId": "T",
+        "color": "black",
+        "id": "c8DjWA3"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": 5,
+        "y": -0.5,
+        "labelId": "Y",
+        "color": "black",
+        "id": "8yZ4YiL"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": 6,
+        "y": -0.5,
+        "labelId": "U",
+        "color": "black",
+        "id": "bJVzHYD"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": 8,
+        "y": -0.5,
+        "labelId": "O",
+        "color": "black",
+        "id": "dmmYd4n"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "x": 9,
+        "y": -0.5,
+        "labelId": "P",
+        "color": "black",
+        "id": "TxW3X31"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 3,
+        "x": -2.5,
+        "y": 0.5,
+        "labelId": "A",
+        "color": "black",
+        "id": "EbrMZh7"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 3,
+        "x": -1.5,
+        "y": 0.5,
+        "labelId": "S",
+        "color": "black",
+        "id": "AjWyhLH"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 3,
+        "x": -0.5,
+        "y": 0.5,
+        "labelId": "D",
+        "color": "black",
+        "id": "x6FNsao"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 3,
+        "x": 5,
+        "y": 0.5,
+        "labelId": "H",
+        "color": "black",
+        "id": "4cYskNK"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 3,
+        "x": 9,
+        "y": 0.5,
+        "labelId": "semicolon",
+        "color": "black",
+        "id": "YAxv7TT"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 4,
+        "x": 7,
+        "y": 1.5,
+        "labelId": "comma",
+        "color": "black",
+        "id": "VdsUMzB"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 4,
+        "x": 8,
+        "y": 1.5,
+        "labelId": "dot",
+        "color": "black",
+        "id": "cDKNL9G"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 4,
+        "x": 9,
+        "y": 1.5,
+        "labelId": "slash",
+        "color": "black",
+        "id": "qmOEaC4"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 1,
+        "x": -0.5,
+        "y": -1.5,
+        "labelId": "3",
+        "color": "black",
+        "id": "M9PE0ib"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 1,
+        "x": 0.5,
+        "y": -1.5,
+        "labelId": "4",
+        "color": "black",
+        "id": "YTQJMwn"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 1,
+        "x": 5,
+        "y": -1.5,
+        "labelId": "6",
+        "color": "black",
+        "id": "t68mPss"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 1,
+        "x": 6,
+        "y": -1.5,
+        "labelId": "7",
+        "color": "black",
+        "id": "Y2hG5t6"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 1,
+        "x": 7,
+        "y": -1.5,
+        "labelId": "8",
+        "color": "black",
+        "id": "i2Xt063"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 1,
+        "x": 8,
+        "y": -1.5,
+        "labelId": "9",
+        "color": "black",
+        "id": "OGVpXaS"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 3,
+        "x": 2.5,
+        "y": 1,
+        "color": "black",
+        "id": "Myeqs4O"
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 3,
+        "x": 4,
+        "y": 1,
+        "color": "black",
+        "id": "uwgKR9v"
+      },
+      {
+        "x": 2,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "MOYCWHD"
+      },
+      {
+        "x": 4.5,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "H9Crlgl"
+      },
+      {
+        "x": 1.5,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "TkgIoih"
+      },
+      {
+        "x": -0.5,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "gggVONG"
+      },
+      {
+        "x": -1.5,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "XCytKBF"
+      },
+      {
+        "x": -2.5,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "oeuxE8K"
+      },
+      {
+        "x": 10,
+        "y": -0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "WqXtXTQ"
+      },
+      {
+        "x": 10,
+        "y": 0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "y5hpg0U"
+      },
+      {
+        "x": 6,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "kqEibKB"
+      },
+      {
+        "x": 5,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "axF2KAO"
+      },
+      {
+        "x": 0.5,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "TAHTIki"
+      },
+      {
+        "x": 1.5,
+        "y": -1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "VRP7JTR"
+      },
+      {
+        "x": 7,
+        "y": -0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "9Ae6xou"
+      },
+      {
+        "x": 7,
+        "y": 0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "FNd30jH"
+      },
+      {
+        "x": 8,
+        "y": 0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "q8qhw1I"
+      },
+      {
+        "x": -1.5,
+        "y": -0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "2RPyP5l"
+      },
+      {
+        "x": 1,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "I0ehGCa"
+      },
+      {
+        "x": -2.5,
+        "y": -1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "ABzQGXm"
+      },
+      {
+        "x": -1.5,
+        "y": -1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "ZgVtnqC"
+      },
+      {
+        "x": 9,
+        "y": -1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "bXzwIp8"
+      },
+      {
+        "x": 10,
+        "y": -1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "Ey0IXzD"
+      },
+      {
+        "x": 1.5,
+        "y": 0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black",
+        "id": "pAhXbYh"
+      },
+      {
+        "id": "qQnzj7dH",
+        "x": 6,
+        "y": 0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "GMkVlGgL",
+        "x": 0.5,
+        "y": 0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "40Iy2AVk",
+        "x": -1,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "qxIwRz38",
+        "x": 0,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "Q6eZ3cK5",
+        "x": 7.5,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "cCFR8KoJ",
+        "x": 6.5,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "JsCjnqET",
+        "x": -2,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "2cKTKaQl",
+        "x": 8.5,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "njIqBA0O",
+        "x": -3.5,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "WhzODqUD",
+        "x": 10,
+        "y": 1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "qIbqnviG",
+        "x": -3.5,
+        "y": -0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "QknZrbsm",
+        "x": -3.5,
+        "y": -1.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "NrWIINp7",
+        "x": -3.5,
+        "y": 0.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      },
+      {
+        "id": "XhDmNtGj",
+        "x": 5.5,
+        "y": 2.5,
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "color": "black"
+      }
+    ],
+    "font": {},
+    "templates": [
+      {
+        "sizeId": "1uh",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "J",
+              "fontId": "63",
+              "lineHeight": 1,
+              "size": 6,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": "alphas",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 3.5,
+              "lineHeight": 0.92,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 61997,
+              "iconKitId": "10",
+              "size": 5,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "left",
+              "alignY": "top",
+              "offsetX": 1.9,
+              "offsetY": 1.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "V",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "PASTE",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 2.4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "top",
+              "offsetX": 3.3,
+              "offsetY": 4.4,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "{",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": -6,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "@\n2",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F2",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "I",
+              "fontId": "63",
+              "lineHeight": 1.2,
+              "size": 6.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": "alphas",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": {
+              "size": 3.5,
+              "lineHeight": 0.92,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "left",
+              "case": null,
+              "fontId": "63"
+            },
+            "vector": null,
+            "icon": {
+              "unicode": 62005,
+              "iconKitId": "10",
+              "size": 5,
+              "offsetX": 0,
+              "offsetY": 0
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "left",
+              "alignY": "top",
+              "offsetX": 1.9,
+              "offsetY": 1.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 62992,
+              "iconKitId": "10",
+              "size": 5,
+              "offsetX": -4,
+              "offsetY": -4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "layers": [
+          {
+            "type": "text",
+            "preset": "alphas",
+            "text": {
+              "size": 6.2,
+              "lineHeight": 1.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "63",
+              "label": "Q"
+            },
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F8",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "layers": [
+          {
+            "type": "text",
+            "preset": "alphas",
+            "text": {
+              "size": 6.2,
+              "lineHeight": 1.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null,
+              "fontId": "63",
+              "label": "E"
+            },
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "mirrorX": false,
+              "mirrorY": false,
+              "rotate": 0
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F10",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -2,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "Z",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "=",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": -6,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 60939,
+              "iconKitId": "7",
+              "size": 3,
+              "offsetX": 5,
+              "offsetY": 5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "+ =\n- _",
+              "fontId": "63",
+              "lineHeight": 1.4,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": "alphasDouble",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "%\n5",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F5",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": -4.5,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 64858,
+              "iconKitId": "2",
+              "size": 2,
+              "offsetX": 6,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 62729,
+              "iconKitId": "2",
+              "size": 2,
+              "offsetX": 4,
+              "offsetY": 5
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 0,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "W",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "PSCR",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 2.4,
+              "offsetX": 3.5,
+              "offsetY": 5.4,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "F9",
+              "fontId": "1",
+              "lineHeight": 1.2,
+              "size": 3,
+              "offsetX": -3,
+              "offsetY": -5,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "right",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 2,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "Y",
+              "fontId": "63",
+              "lineHeight": 1.2,
+              "size": 6.2,
+              "offsetX": 0,
+              "offsetY": 0,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": "alphas",
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "icon",
+            "text": null,
+            "vector": null,
+            "icon": {
+              "unicode": 59658,
+              "iconKitId": "4",
+              "size": 5,
+              "offsetX": 5,
+              "offsetY": 4
+            },
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      },
+      {
+        "sizeId": "1u",
+        "rowNumber": 1,
+        "layers": [
+          {
+            "type": "text",
+            "text": {
+              "label": "[{ (",
+              "fontId": "17",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": -3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          },
+          {
+            "type": "text",
+            "text": {
+              "label": "9",
+              "fontId": "17",
+              "lineHeight": 1.2,
+              "size": 4,
+              "offsetX": 0,
+              "offsetY": 3,
+              "hAlign": "center",
+              "case": null
+            },
+            "vector": null,
+            "icon": null,
+            "preset": null,
+            "settings": {
+              "lockX": null,
+              "lockY": null,
+              "alignX": "center",
+              "alignY": "center",
+              "offsetX": 0,
+              "offsetY": 0,
+              "rotate": 0,
+              "mirrorX": false,
+              "mirrorY": false
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
