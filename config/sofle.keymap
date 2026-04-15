@@ -19,11 +19,11 @@
 
         g_del: hold_tap_g_delete {
             compatible = "zmk,behavior-hold-tap";
-            #binding-cells = <0>;
+            #binding-cells = <2>;
             flavor = "balanced";
             tapping-term-ms = <200>;
             quick-tap-ms = <0>;
-            bindings = <&kp DEL>, <&kp G>;
+            bindings = <&kp>, <&kp>;
         };
     };
 
@@ -41,7 +41,7 @@
             bindings = <
 &kp ESC   &kp N1  &kp N2    &kp N3    &kp N4     &kp N5                        &kp N6  &kp N7     &kp N8     &kp N9    &kp N0    &kp EQUAL
 &kp TAB   &kp Q   &kp W     &kp E     &kp R      &kp T                         &kp Y   &kp U      &kp I      &kp O     &kp P     &to 3
-&kp APOS  &kp A   &kp S     &kp D     &kp F      &g_del                        &kp H   &kp J      &kp K      &kp L     &kp SEMI  &kp BSLH
+&kp APOS  &kp A   &kp S     &kp D     &kp F      &g_del DEL G                  &kp H   &kp J      &kp K      &kp L     &kp SEMI  &kp BSLH
 &td_caps  &kp Z   &kp X     &kp C     &kp V      &kp B   &trans     &trans     &kp N   &kp M      &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
                   &kp LGUI  &kp LALT  &kp LCTRL  &to 1   &kp RET    &kp SPACE  &to 2   &kp RCTRL  &kp RALT   &kp RGUI
             >;
