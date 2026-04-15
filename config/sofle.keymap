@@ -34,7 +34,7 @@
 &kp ESC   &kp N1  &kp N2    &kp N3    &kp N4     &kp N5                        &kp N6  &kp N7     &kp N8     &kp N9    &kp N0    &kp EQUAL
 &kp TAB   &kp Q   &kp W     &kp E     &kp R      &kp T                         &kp Y   &kp U      &kp I      &kp O     &kp P     &tog 3
 &kp APOS  &kp A   &kp S     &kp D     &kp F      &kp G                         &kp H   &kp J      &kp K      &kp L     &kp SEMI  &kp BSLH
-&td_caps  &kp Z   &kp X     &kp C     &kp V      &kp B   &none     &none      &kp N   &kp M      &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
+&td_caps  &kp Z   &kp X     &kp C     &kp V      &kp B   &none      &none      &kp N   &kp M      &kp COMMA  &kp DOT   &kp FSLH  &kp RSHFT
                   &kp LGUI  &kp LALT  &kp LCTRL  &tog 1  &kp RET    &kp SPACE  &tog 2  &kp RCTRL  &kp RALT   &kp RGUI
             >;
 
@@ -51,11 +51,11 @@
             //                 |     |      |      |      |        |  |       |      |       |       |      |
 
             bindings = <
-&none  &kp F1  &kp F2  &kp F3   &kp F4   &kp F5                     &none  &none  &none        &kp LBKT  &kp RBKT  &none
-&none  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12                    &none  &none  &kp C_VOL_UP  &none    &kp C_PP  &none
-&none  &none  &none  &none   &none   &none                     &none  &none  &kp C_VOL_DN  &none    &none    &none
-&none  &none  &none  &none   &none   &none   &none    &none  &none  &none  &kp C_MUTE    &none    &kp BSLH  &none
-                &none  &none   &none   &none   &none    &none  &none  &none  &none        &none
+&trans  &kp F1  &kp F2  &kp F3   &kp F4   &kp F5                     &none   &none   &none         &kp LBKT  &kp RBKT  &none
+&trans  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12                    &none   &none   &kp C_VOL_UP  &none     &kp C_PP  &trans
+&none   &none   &none   &none    &none    &none                      &none   &none   &kp C_VOL_DN  &none     &none     &none
+&trans  &none   &none   &none    &none    &none    &none     &none   &none   &none   &kp C_MUTE    &none     &kp BSLH  &trans
+                &trans  &trans   &trans   &trans   &trans    &trans  &trans  &trans  &trans        &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
@@ -70,11 +70,11 @@
             //              |      |       |       |      |      |  |      |      |      |       |      |
 
             bindings = <
-&none     &none      &none     &none      &none       &none                     &none         &none    &none    &kp LBKT   &kp RBKT  &kp MINUS
-&none     &kp INS     &kp PSCRN  &none      &none       &none                     &kp PG_UP      &kp HOME  &kp UP    &kp END    &none    &none
-&kp GRAVE  &none      &none     &none      &none       &kp DEL                    &kp BACKSPACE  &kp LEFT  &kp DOWN  &kp RIGHT  &none    &none
-&none     &kp K_UNDO  &kp K_CUT  &kp K_COPY  &kp K_PASTE  &none   &none    &none  &kp PG_DN      &none    &none    &none     &none    &none
-                       &none     &none      &none       &none   &none    &none  &none         &none    &none    &none
+&trans     &none       &none      &none       &none        &none                      &none          &none     &none     &kp LBKT   &kp RBKT  &kp MINUS
+&trans     &kp INS     &kp PSCRN  &none       &none        &none                      &kp PG_UP      &kp HOME  &kp UP    &kp END    &none     &trans
+&kp GRAVE  &none       &none      &none       &none        &kp DEL                    &kp BACKSPACE  &kp LEFT  &kp DOWN  &kp RIGHT  &none     &none
+&trans     &kp K_UNDO  &kp K_CUT  &kp K_COPY  &kp K_PASTE  &none    &none     &none   &kp PG_DN      &none     &none     &none      &none     &trans
+                       &trans     &trans      &trans       &trans   &trans    &trans  &trans         &trans    &trans    &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
@@ -82,11 +82,11 @@
 
         num_layer_3 {
             bindings = <
-&none  &none  &none  &none  &none  &none                    &none  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &none  &kp MINUS
-&none  &none  &none  &none  &none  &none                    &none  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &none  &kp KP_ASTERISK
-&none  &none  &none  &none  &none  &none                    &none  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none  &kp KP_DIVIDE
-&none  &none  &none  &none  &none  &none  &none    &none  &none  &none        &kp NUMBER_0  &none        &none  &none
-                &none  &none  &none  &none  &none    &none  &none  &none        &none        &none
+&trans  &none  &none   &none   &none   &none                     &none   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp ASTRK  &kp MINUS
+&trans  &none  &none   &none   &none   &none                     &none   &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &none      &trans
+&none   &none  &none   &none   &none   &none                     &none   &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none      &kp KP_DIVIDE
+&trans  &none  &none   &none   &none   &none   &none     &none   &none   &none         &kp NUMBER_0  &none         &none      &trans
+               &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans        &trans        &trans
             >;
         };
     };
