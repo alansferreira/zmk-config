@@ -51,7 +51,7 @@
             //                 |     |      |      |      |        |  |       |      |       |       |      |
 
             bindings = <
-&trans  &kp F1  &kp F2  &kp F3   &kp F4   &kp F5                     &none  &none   &none         &kp LBKT  &kp RBKT  &none
+&to 0   &kp F1  &kp F2  &kp F3   &kp F4   &kp F5                     &none  &none   &none         &kp LBKT  &kp RBKT  &none
 &trans  &kp F8  &kp F9  &kp F10  &kp F11  &kp F12                    &none  &none   &kp C_VOL_UP  &none     &kp C_PP  &to 3
 &none   &none   &none   &none    &none    &none                      &none  &none   &kp C_VOL_DN  &none     &none     &none
 &trans  &none   &none   &none    &none    &none    &none     &none   &none  &none   &kp C_MUTE    &none     &kp BSLH  &trans
@@ -70,7 +70,7 @@
             //              |      |       |       |      |      |  |      |      |      |       |      |
 
             bindings = <
-&trans     &none       &none      &none       &none        &none                      &none          &none     &none     &kp LBKT   &kp RBKT  &kp MINUS
+&to 0      &none       &none      &none       &none        &none                      &none          &none     &none     &kp LBKT   &kp RBKT  &kp MINUS
 &trans     &kp INS     &kp PSCRN  &none       &none        &none                      &kp PG_UP      &kp HOME  &kp UP    &kp END    &none     &to 3
 &kp GRAVE  &none       &none      &none       &none        &kp DEL                    &kp BACKSPACE  &kp LEFT  &kp DOWN  &kp RIGHT  &none     &none
 &trans     &kp K_UNDO  &kp K_CUT  &kp K_COPY  &kp K_PASTE  &none    &none     &none   &kp PG_DN      &none     &none     &none      &none     &trans
@@ -82,7 +82,7 @@
 
         num_layer_3 {
             bindings = <
-&trans  &none  &none   &none   &none   &none                    &none  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp ASTRK  &kp MINUS
+&to 0   &none  &none   &none   &none   &none                    &none  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp ASTRK  &kp MINUS
 &trans  &none  &none   &none   &none   &none                    &none  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &none      &to 0
 &none   &none  &none   &none   &none   &none                    &none  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none      &kp KP_DIVIDE
 &trans  &none  &none   &none   &none   &none  &none     &none   &none  &none         &kp NUMBER_0  &none         &none      &trans
