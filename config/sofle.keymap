@@ -12,7 +12,6 @@
     behaviors {
         td_caps: tap_dance_caps {
             compatible = "zmk,behavior-tap-dance";
-            label = "TD_CAPS";
             #binding-cells = <0>;
             tapping-term-ms = <200>;
             bindings = <&kp LSHFT>, <&caps_word>;
@@ -20,7 +19,6 @@
 
         g_del: hold_tap_g_delete {
             compatible = "zmk,behavior-hold-tap";
-            label = "G_DEL";
             #binding-cells = <0>;
             flavor = "balanced";
             tapping-term-ms = <200>;
